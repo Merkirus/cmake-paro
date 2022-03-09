@@ -1,0 +1,3 @@
+/Users/frafau/Documents/CppProjects/Test/build/CMakeFiles/main.dir
+/Users/frafau/Documents/CppProjects/Test/build/CMakeFiles/edit_cache.dir
+/Users/frafau/Documents/CppProjects/Test/build/CMakeFiles/rebuild_cache.dir
