@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/frafau/Documents/CppProjects/Test/src/Prostokat.cpp" "CMakeFiles/main.dir/src/Prostokat.cpp.o" "gcc" "CMakeFiles/main.dir/src/Prostokat.cpp.o.d"
-  "/Users/frafau/Documents/CppProjects/Test/src/main.cpp" "CMakeFiles/main.dir/src/main.cpp.o" "gcc" "CMakeFiles/main.dir/src/main.cpp.o.d"
+  "/Users/frafau/Documents/CppProjects/Test/src/Prostokat.cpp" "CMakeFiles/myLib.dir/src/Prostokat.cpp.o" "gcc" "CMakeFiles/myLib.dir/src/Prostokat.cpp.o.d"
+  "/Users/frafau/Documents/CppProjects/Test/src/main.cpp" "CMakeFiles/myLib.dir/src/main.cpp.o" "gcc" "CMakeFiles/myLib.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.

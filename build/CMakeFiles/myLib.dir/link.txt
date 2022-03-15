@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmyLib.a CMakeFiles/myLib.dir/src/main.cpp.o CMakeFiles/myLib.dir/src/Prostokat.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmyLib.a
